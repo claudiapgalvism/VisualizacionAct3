@@ -1,0 +1,15 @@
+h1, h2 {
+  font-family: Lato;
+}
+ body {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+        }
+.negrita { 
+          font-weight: bold;
+       }
+
+ #viz1,#viz2,#viz3{
+        width: 90%;
+        height: 300px;
+        }
